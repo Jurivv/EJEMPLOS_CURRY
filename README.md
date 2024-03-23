@@ -40,12 +40,12 @@ if __name__ == "__main__":
     else:
         print("No es un billete real.")
 ```
-```python
+
 5.Haga un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
 c: int
 ti: float  # tasa de interes (en porcentaje)
 t: int  # tiempo
-
+```python
 def interes(c: int, ti: float) -> float:
     return c * (ti / 100)  # Convertimos la tasa de interés a porcentaje
 
