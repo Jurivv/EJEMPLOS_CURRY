@@ -375,3 +375,14 @@ pip es un sistema de gestión de paquetes utilizado para instalar y administrar 
           </tr>            
         </table>
     </div>
+    https://www.freecodecamp.org/espanol/news/como-usar-pip-install-en-python/
+
+https://www.neoguias.com/como-instalar-pip-python/
+
+https://docs.python.org/es/3/installing/index.html
+
+https://doi.org/10.46430/phes0012
+
+https://jmjinformatico.es/crear-modulo-python/
+
+https://docs.python.org/es/3/tutorial/modules.html
