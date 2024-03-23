@@ -1,4 +1,21 @@
 # Reto_6
+1.Dado la figura de la imagen, desarrolle:
+[![68747470733a2f2f692e706f7374696d672e63632f465276436d7078782f696d6167652e706e67.png](https://i.postimg.cc/vBLBzvmm/68747470733a2f2f692e706f7374696d672e63632f465276436d7078782f696d6167652e706e67.png)](https://postimg.cc/CB5SMkky)
+.Una función matemática para calcular el volumen y el área superficial.
+.Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r1, r2 y h.
+.Revise como utilizar el valor de pi usando import math y math.pi
+
+
+2.Dado la figura de la imagen, desarrolle:
+[![68747470733a2f2f692e706f7374696d672e63632f3174344d727a734c2f696d6167652e706e67.png](https://i.postimg.cc/KzJbjpzt/68747470733a2f2f692e706f7374696d672e63632f3174344d727a734c2f696d6167652e706e67.png)](https://postimg.cc/BLLkwg2v)
+.Una función matemática para calcular el área y el perimetro.
+.Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b.
+.Revise como utilizar el valor de pi usando import math y math.pi
+
+
+3.Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
+
+
 4.Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
 ```python
 billete: int
