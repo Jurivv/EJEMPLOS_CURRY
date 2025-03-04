@@ -1,4 +1,5 @@
 Ejemplos de los códigos de curry 
+Ejemplo 1:
 ```curry
 -- Definición de un tipo de dato para representar colores
 data Color = Rojo | Verde | Azul
@@ -11,7 +12,7 @@ main :: IO ()
 main = putStrLn ("El color seleccionado es: " ++ show elegirColor)
 
 ```
-
+Ejemplo 2:
 ```curry
 module Main where
 
