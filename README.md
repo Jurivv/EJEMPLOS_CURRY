@@ -1,4 +1,5 @@
 Ejemplos de los códigos de curry 
+
 Ejemplo 1:
 ```curry
 -- Definición de un tipo de dato para representar colores
