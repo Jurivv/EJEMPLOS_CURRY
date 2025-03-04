@@ -1,4 +1,4 @@
-Ejemplos de los códigos de curry y mercury
+Ejemplos de los códigos de curry 
 ```curry
 -- Definición de un tipo de dato para representar colores
 data Color = Rojo | Verde | Azul
